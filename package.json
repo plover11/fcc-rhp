@@ -1,0 +1,14 @@
+{
+    "name": "fcc-rhp",
+    "description": "request header parser returns ip, software and language of request",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "dependencies": {
+    },
+    "repository": {
+    "type": "git",
+    "url": "git://github.com/plover11/fcc-rhp"
+  }
+}
